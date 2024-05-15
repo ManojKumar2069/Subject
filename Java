@@ -1,0 +1,2 @@
+This is a programming language that support both compilation and interpreted 
+This subject is handel by subash sir 
